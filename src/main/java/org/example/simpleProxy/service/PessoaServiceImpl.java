@@ -1,8 +1,7 @@
-package org.example.service;
+package org.example.simpleProxy.service;
 
-import org.example.model.Pessoa;
-import org.example.repository.PessoaRepositoryImpl;
-import org.example.repository.PessoaRespository;
+import org.example.simpleProxy.model.Pessoa;
+import org.example.simpleProxy.repository.PessoaRespository;
 
 public class PessoaServiceImpl implements PessoaService{
 

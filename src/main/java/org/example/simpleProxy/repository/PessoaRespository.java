@@ -1,6 +1,6 @@
-package org.example.repository;
+package org.example.simpleProxy.repository;
 
-import org.example.model.Pessoa;
+import org.example.simpleProxy.model.Pessoa;
 
 public interface PessoaRespository {
 
