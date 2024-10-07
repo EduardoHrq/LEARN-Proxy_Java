@@ -1,7 +1,7 @@
 package org.example.simpleProxy.proxy;
 
-import org.example.simpleProxy.model.Pessoa;
-import org.example.simpleProxy.repository.PessoaRepositoryImpl;
+import org.example.model.Pessoa;
+import org.example.repository.PessoaRepositoryImpl;
 
 import java.util.HashMap;
 import java.util.Map;

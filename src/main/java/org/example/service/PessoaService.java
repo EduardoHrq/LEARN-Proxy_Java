@@ -1,6 +1,6 @@
-package org.example.simpleProxy.service;
+package org.example.service;
 
-import org.example.simpleProxy.model.Pessoa;
+import org.example.model.Pessoa;
 
 public interface PessoaService {
 

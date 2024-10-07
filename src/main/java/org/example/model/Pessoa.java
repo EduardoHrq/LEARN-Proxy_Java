@@ -1,4 +1,4 @@
-package org.example.simpleProxy.model;
+package org.example.model;
 
 public class Pessoa {
 

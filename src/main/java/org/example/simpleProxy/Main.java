@@ -1,9 +1,9 @@
 package org.example.simpleProxy;
 
-import org.example.simpleProxy.model.Pessoa;
+import org.example.model.Pessoa;
 import org.example.simpleProxy.proxy.PessoaRepositoryProxy;
-import org.example.simpleProxy.service.PessoaService;
-import org.example.simpleProxy.service.PessoaServiceImpl;
+import org.example.service.PessoaService;
+import org.example.service.PessoaServiceImpl;
 
 public class Main {
     public static void main(String[] args) {

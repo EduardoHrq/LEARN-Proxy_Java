@@ -1,6 +1,6 @@
-package org.example.simpleProxy.repository;
+package org.example.repository;
 
-import org.example.simpleProxy.model.Pessoa;
+import org.example.model.Pessoa;
 
 import java.util.HashMap;
 import java.util.Map;
